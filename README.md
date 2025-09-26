@@ -1,7 +1,6 @@
-#Now that you are here..
-let me introduce myself...
+# Hi there, I'm Kavya!
 
-I’m a data scientist and AI developer specializing in agentic AI, computer vision, RAG, NLP and complex agentic interations. I hold a degree, e.g., B.S. in Computer Science from Delhi University. Passionate about creating scalable AI solutions, I’m driven to solve complex problems."
+I’m a data scientist and AI developer specializing in agentic AI, computer vision, RAG, NLP and complex agentic interations. I hold a degree, e.g., B.S. in Physics from Delhi University. Passionate about creating scalable AI solutions, I’m driven to solve complex problems."
 
 [LinkedIn](https://www.linkedin.com/in/kavya-negi-a05839167/) 
 
