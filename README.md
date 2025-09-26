@@ -1,4 +1,5 @@
-Now that you are here..let me introduce myself
+#Now that you are here..
+let me introduce myself...
 
 I’m a data scientist and AI developer specializing in agentic AI, computer vision, RAG, NLP and complex agentic interations. I hold a degree, e.g., B.S. in Computer Science from Delhi University. Passionate about creating scalable AI solutions, I’m driven to solve complex problems."
 
