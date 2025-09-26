@@ -1,8 +1,8 @@
 # Hi there, I'm Kavya Negi!
 
-I’m a data scientist and AI developer specializing in agentic AI, computer vision, and NLP. I hold a [degree, e.g., B.S. in Computer Science] from [Delhi University]. Passionate about creating scalable AI solutions, I’m driven to solve complex problems."]
+I’m a data scientist and AI developer specializing in agentic AI, computer vision, RAG, NLP and complex agentic interations. I hold a degree, e.g., B.S. in Computer Science from Delhi University. Passionate about creating scalable AI solutions, I’m driven to solve complex problems."
 
-[LinkedIn](https://www.linkedin.com/in/kavya-negi-a05839167/) |
+[LinkedIn](https://www.linkedin.com/in/kavya-negi-a05839167/) 
 
 ## Projects
 A curated list of my key AI-driven projects, showcasing innovative solutions.
@@ -17,26 +17,23 @@ A curated list of my key AI-driven projects, showcasing innovative solutions.
   **Topics**: Computer Vision, MediaPipe, OpenCV, Audio Processing
 - **[LangGraph-Plan-Agent](https://github.com/Kavyanegi0007/LangGraph-Plan-Agent)**: Built a Streamlit app for AI task planning using LangChain, Groq, and Tavily APIs for task splitting and refinement.  
   **Topics**: LangChain, Groq, Tavily, Streamlit
-
+  
 ## Skills
-[![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat&logo=microsoft&logoColor=white)](https://azure.microsoft.com/en-us/products/ai-services/openai-service) 
-[![Azure AI Search](https://img.shields.io/badge/-Azure%20AI%20Search-0078D4?style=flat&logo=microsoft&logoColor=white)](https://azure.microsoft.com/en-us/products/search) 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org) 
-[![LangChain](https://img.shields.io/badge/-LangChain-FF6F61?style=flat)](https://langchain.com) 
-[![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-3498DB?style=flat)](https://opencv.org) 
-[![NLP](https://img.shields.io/badge/-NLP-2ECC71?style=flat)](https://huggingface.co) 
+[![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat&logo=microsoft&logoColor=white)](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+[![Azure AI Search](https://img.shields.io/badge/-Azure%20AI%20Search-0078D4?style=flat&logo=microsoft&logoColor=white)](https://azure.microsoft.com/en-us/products/search)
+[![MCP](https://img.shields.io/badge/-MCP-3498DB?style=flat)](https://modelcontextprotocol.org)
+[![RAG](https://img.shields.io/badge/-RAG-2ECC71?style=flat)](https://langchain.com)
+[![ACP](https://img.shields.io/badge/-ACP-E74C3C?style=flat)](https://docs.beeai.dev/acp)
+[![LangGraph](https://img.shields.io/badge/-LangGraph-FF6F61?style=flat)](https://langchain.com/langgraph)
+[![Semantic Kernel](https://img.shields.io/badge/-Semantic%20Kernel-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/semantic-kernel)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![LangChain](https://img.shields.io/badge/-LangChain-FF6F61?style=flat)](https://langchain.com)
+[![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-3498DB?style=flat)](https://opencv.org)
+[![NLP](https://img.shields.io/badge/-NLP-2ECC71?style=flat)](https://huggingface.co)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-
 ## GitHub Contributions
 [![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavyanegi0007&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/[your-profile])
-- [Portfolio](https://your-portfolio.com)
-- [Medium](https://medium.com/@[your-username])
-
 ---
 
-*© 2025 Kavya Negi. Built with GitHub.*## Hi there 👋
-
-<
+*© 2025 Kavya Negi. Built with GitHub.*
