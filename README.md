@@ -7,6 +7,8 @@ I’m a data scientist and AI developer specializing in agentic AI, computer vis
 ## Projects
 A curated list of my key AI-driven projects, showcasing innovative solutions.
 
+- **[Unified MCP](https://github.com/Kavyanegi0007/Unified-MCP.git)**: Developed a unified MCP Server that connects with the internal database and answers user's questions 
+- **[GraphRAG Resume](https://github.com/Kavyanegi0007/graphRAG.git)**: Developed a GraphRAG based system to screen resumes 
 - **[video_chatbot](https://github.com/Kavyanegi0007/video_chatbot)**: Developed a Python-based chatbot for video interactions using Azure OpenAI and MCP, Azure AI Vision and Azure Cognitive Search for conversational AI.  
   **Topics**: Chatbots, Generative AI, LangChain, Azure OpenAI
 - **[IP-Tester](https://github.com/Kavyanegi0007/IP-Tester)**: Created an AI-driven image similarity pipeline using Azure Cognitive Search and Google Lens (via SerpAPI) for local and web-based search.  
